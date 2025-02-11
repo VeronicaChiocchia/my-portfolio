@@ -1,0 +1,34 @@
+{
+    "projects": [
+      {
+        "image": "https://picsum.photos/200/300?random=1",
+        "title": "Project One",
+        "sentences": [
+          "This is the first project description.",
+          "It showcases innovative design.",
+          "Built with modern technologies."
+        ],
+        "link": "https://example.com/project1"
+      },
+      {
+        "image": "https://picsum.photos/200/300?random=2",
+        "title": "Project Two",
+        "sentences": [
+          "This project focuses on user experience.",
+          "It integrates AI-powered features.",
+          "Developed using the latest frameworks."
+        ],
+        "link": "https://example.com/project2"
+      },
+      {
+        "image": "https://picsum.photos/300/200",
+        "title": "Project Three",
+        "sentences": [
+          "This project is optimized for performance.",
+          "It includes real-time data processing.",
+          "Designed for scalability."
+        ],
+        "link": "https://example.com/project3"
+      }
+    ]
+  }

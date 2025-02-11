@@ -1,0 +1,19 @@
+
+
+.hero-container {
+    background-image: url("/img/mitchell-luo-FWoq_ldWlNQ-unsplash.jpg");
+    /* height: 80vh; */
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.custom-gradient {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    height: inherit;
+    background-color: rgba(0, 0, 0, 0.6);
+    flex-shrink: 0;
+  overflow: hidden;
+}
+
